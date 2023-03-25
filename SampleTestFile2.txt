@@ -1,1 +1,3 @@
 This is sample file 2
+This is for compare lesson
+This is Stash Lession, change in file 2
